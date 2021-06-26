@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\Projetos\Crud\CRUDApsNetCore5WebAPI\obj\Debug\net5.0\CRUDApsNetCore5WebAPI.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Projetos\Crud\CRUDApsNetCore5WebAPI\obj\Debug\net5.0\CRUDApsNetCore5WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Projetos\Crud\CRUDApsNetCore5WebAPI\obj\Debug\net5.0\CRUDApsNetCore5WebAPI.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Projetos\Crud\CRUDApsNetCore5WebAPI\obj\Debug\net5.0\CRUDApsNetCore5WebAPI.AssemblyInfo.cs
+C:\Users\Michael\Documents\Projetos\Crud\CRUDApsNetCore5WebAPI\obj\Debug\net5.0\CRUDApsNetCore5WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Projetos\Crud\CRUDApsNetCore5WebAPI\obj\Debug\net5.0\CRUDApsNetCore5WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Michael\Documents\Projetos\Crud\CRUDApsNetCore5WebAPI\obj\Debug\net5.0\CRUDApsNetCore5WebAPI.MvcApplicationPartsAssemblyInfo.cache
